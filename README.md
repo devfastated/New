@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romer Jasen Jimenez</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<img align="right" alt="coding" width="400" scr="https://media.istockphoto.com/id/1093952612/vector/smiling-boy-sitting-at-laptop-and-learning-coding.jpg?s=612x612&w=0&k=20&c=gcHA4a11TGgG0PawkRu67ojI3wu0zWnUiUW8Yz9r8nI=">
+<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 
 
