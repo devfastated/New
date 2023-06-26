@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romer Jasen Jimenez</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<img align="right" alt="coding" width="400" scr="https://giphy.com/embed/RbDKaczqWovIugyJmW">
-
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" scr="https://media.istockphoto.com/id/1093952612/vector/smiling-boy-sitting-at-laptop-and-learning-coding.jpg?s=612x612&w=0&k=20&c=gcHA4a11TGgG0PawkRu67ojI3wu0zWnUiUW8Yz9r8nI=">
 
 
 
