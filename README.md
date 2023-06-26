@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romer Jasen Jimenez</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
-
+<img align="right" alt="coding" width="400px" scr="/img/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reraizen&label=Profile%20views&color=0e75b6&style=flat" alt="reraizen" /> </p>
